@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**D3fa7lt/d3fa7lt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D3fa7lt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
